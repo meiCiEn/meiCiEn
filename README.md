@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hello! 👋 </h1>
+<p align="center"> My name's Ellie Mears. I'm a journalist and aspiring front-end developer based in Brussels, Belgium.</p>
+<img align="right" src="https://meicien.github.io/images-repo/Ellie.svg" height="300" width="300">
+<h3 align="center"> Languages & Skills </h3>
 
-<!--
-**meiCiEn/meiCiEn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- HTML
+- CSS
+- Sass
+- JavaScript
+- PHP
+- React
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
